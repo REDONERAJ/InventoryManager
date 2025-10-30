@@ -1,0 +1,15 @@
+# Ignore application credentials
+src/main/resources/application.properties
+.env
+
+# Ignore IDE & build files
+/target/
+/.idea/
+/.vscode/
+/out/
+/*.iml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+/bin/

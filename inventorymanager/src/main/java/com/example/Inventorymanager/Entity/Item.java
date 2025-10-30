@@ -1,4 +1,4 @@
-package com.example.inventorymanager.Entity;
+package com.example.Inventorymanager.Entity;
 
 import jakarta.persistence.*;
 import lombok.*;

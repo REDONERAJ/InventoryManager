@@ -1,9 +1,9 @@
-package com.example.inventorymanager.Service;
+package com.example.Inventorymanager.Service;
 
 import java.util.List;
 import org.springframework.stereotype.Service;
-import com.example.inventorymanager.Entity.Item;
-import com.example.inventorymanager.Repository.ItemRepository;
+import com.example.Inventorymanager.Entity.Item;
+import com.example.Inventorymanager.Repository.ItemRepository;
 
 @Service
 public class ItemService {

@@ -1,9 +1,9 @@
-package com.example.inventorymanager.Controller;
+package com.example.Inventorymanager.Controller;
 
 import java.util.List;
 import org.springframework.web.bind.annotation.*;
-import com.example.inventorymanager.Entity.Item;
-import com.example.inventorymanager.Service.ItemService;
+import com.example.Inventorymanager.Entity.Item;
+import com.example.Inventorymanager.Service.ItemService;
 
 @CrossOrigin(origins = "*")
 @RestController
